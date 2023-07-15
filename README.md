@@ -1,0 +1,2 @@
+# Bank_Products_Sale_Prediction_via_Ensemble_models
+This model was established to predict who will be interested in Bank products that are scheduled to be presented. Several models were used at the same time in this project. Among these, the Catboost model, which can operate in both categorical and numeric columns, has been Deployed on the test data because it has the highest Gini. At the same time, we can count the XCBM model and one of the most important models, Stacking. And hyperparameters too.
